@@ -1,7 +1,7 @@
 ---
 title: Rudy Morel
 role: PhD in Mathematics
-avatar_filename: redimensione.jpg
+avatar_filename: avatar.jpg
 bio: I'm a PhD student in the DATA team at École Normale Supérieure, under the
   supervision of Stéphane Mallat, in collaboration with Jean-Philippe Bouchaud.
 interests:
