@@ -21,4 +21,4 @@ user_groups:
   - ""
 highlight_name: false
 ---
-Ma nouvelle page personnelle est en construction.
+The work on my new page is in progress.
